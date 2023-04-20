@@ -17,7 +17,7 @@
 
 - Training the model
 
-  ![alt text](https://github.com/n5hossai/DNN-Digit-Classifier/blob/main/traingss.png)
+  ![alt text](https://github.com/jeedan10/DNN-Digit-Classifier/blob/main/traingss.png)
 
 
 - Then we use numpy to understand our prediction 
